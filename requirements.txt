@@ -1,0 +1,7 @@
+pypdf
+langchain
+chromadb # Vector storage
+pytest
+boto3
+streamlit
+langchain_community
